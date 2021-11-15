@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Muhammad Hammad Asif</h1>
+</head>
+<body>
+<h3> About me </h3>
+<div>
+<h5>Past achievements </h5>
+<p>
+I started my o levels back in late 2016 and just like every 1st year at high
+school, I was clueless about the fact that what the next 3 years entailed.
+I went to LGS JT in Lahore and studied science subjects. In total I was
+studying 8 subjects, though school was tough at first I gradually became
+accustomed to my life at high school and finished my o levels with good
+grades.I started my A levels in late 2019. I did it my o levels and a levels
+from the same high school. I studied 5 subjects in a levels which included:
+
+Physics
+
+Chemistry
+
+Maths
+
+Computer Science
+
+Economics
+
+I studied these subjects for a whole year before I decided to drop economics.
+I learned a lot in my a levels about computer science which has definitely
+helped me out in my journey.
+</p>
+</div>
+<div>
+<h6>Current Situation</h6>
+<p>​I am a solitary and intrapersonal learner. I prefer assignments which
+require practical work and academic settings which focus on a more hands-on
+approach. I really like technology and I started getting into it a few years
+ago. Being an avid fan of technology, makes me excited about any new thing
+that is released, like new laptops, phones, tablets, ipads, gpus, processors
+and much more. I also like to programme/code because it requires me to think
+critically and use basic logic to make an application that can be helpful to
+people or even to myself.
+I started my journey into the world of coding during my a levels where I had
+to study computer science. That was the point when I started developing a
+profound interest in Web development and Graphic design. I have been
+practicing both of these since the past 2 years and I have been getting
+better at them every few months. I am planning to learn dive deeper into the
+world of coding and proceed with my current hobbies.
+</p>
+</div>
+</body>
+</html>
